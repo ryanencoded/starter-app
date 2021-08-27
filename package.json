@@ -81,7 +81,7 @@
     "@types/lodash.isequal": "^4.5.5",
     "@types/lodash.merge": "^4.6.6",
     "husky": "^4.2.5",
-    "import-sort-cli": "^6.0.0",
+    "import-sort-cli": "^5.2.0",
     "import-sort-parser-typescript": "^6.0.0",
     "import-sort-style-module": "^6.0.0",
     "lint-staged": "^10.2.11",
